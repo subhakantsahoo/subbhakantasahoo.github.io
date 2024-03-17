@@ -30,7 +30,7 @@ const Home = () => {
   return (
     <div style={styles.container}>
       <div style={styles.content}>
-        <h1 style={styles.heading}>Welcome to My Screen</h1>
+        <h1 style={styles.heading}>Welcome to My Screen Musa 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀</h1>
         <p style={styles.paragraph}>
           This is a basic Info about my site.
         </p>
